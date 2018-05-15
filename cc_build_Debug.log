@@ -1,0 +1,10 @@
+-----------------------------  laba1.pjt - Debug  -----------------------------
+"c:\ti\c5400\cgtools\bin\cl500" -g -q -fr"D:/Глеб/Университет/6 семестр/PPOVS/laba2m/laba1/Debug" -d"_DEBUG" -@"Debug.lkf" "laba1.asm"
+<laba1.asm>
+
+Warning: The project has no cmd file while the Text Linker is selected
+"c:\ti\c5400\cgtools\bin\cl500" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.
