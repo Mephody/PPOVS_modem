@@ -1,5 +1,6 @@
 # PPOVS_modem
 Course of laboratory projects.
+Made for TMS320C5402 in Code C0mposer Studio 20-21.
 
 I can't really comment on this project due its age, but if you have got some issues please contact with me in any social network =). 
 
